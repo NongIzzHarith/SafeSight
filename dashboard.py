@@ -12,7 +12,7 @@ import json
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-ESP_IP = "http://10.95.226.155/data"
+ESP_IP = "http://10.159.194.155/data"
 DATA_PATH = os.path.join('data', 'gas_log.csv')
 
 # --- THRESHOLDS ---
